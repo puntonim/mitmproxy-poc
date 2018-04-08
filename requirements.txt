@@ -1,0 +1,4 @@
+mitmproxy==3.0.4
+
+# BeautifulSoup (not required by mitmproxy, but used in the example).
+bs4==0.0.1
